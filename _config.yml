@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: [/anil.nelakanti]
+title: Anil Nelakanti
 description: [anil dot nelakanti at gmail dot com]
 plugins:
   - jekyll-relative-links
