@@ -2,5 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
-font-family: Cambria, Georgia, serif;
+body {
+  font-family: Cambria, Georgia, serif;
+}
