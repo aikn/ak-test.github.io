@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Anil Nelakanti
-description: [anil dot nelakanti at gmail dot com]
+title:
+description: Anil Nelakanti
 show_downloads: false
 github:
   is_project_page: false
