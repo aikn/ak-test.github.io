@@ -4,8 +4,9 @@
 @import "{{ site.theme }}";
 body {
   font-family: Calibri, Cambria, Georgia, serif;
-  font-color: Black; /*Granite gray*/
-  background-color: White; /*Sagebrush green*/
+  font-color: Black; 
+  font-size: 10vw;
+  background-color: LightSlateGray; 
   a:link { 
     color: Black; 
     text-decoration: underline;
@@ -14,6 +15,6 @@ body {
   a:visited {
     color: Black;
     text-decoration: underline;
-    background-color: White;
+    background-color: LightSlateGray;
   }
 }
