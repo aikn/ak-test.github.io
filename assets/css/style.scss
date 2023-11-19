@@ -4,14 +4,15 @@
 @import "{{ site.theme }}";
 body {
   font-family: Calibri, Cambria, Georgia, serif;
-  font-color: #696667FF; /*Granite gray*/
-  background-color: #567572FF; /*Sagebrush green*/
+  font-color: #a7bcb9; /*Granite gray*/
+  background-color: #5dacbd; /*Sagebrush green*/
   a:link { 
-    color: #964F4CFF; 
+    color: #a7bcb9; 
     text-decoration: underline;
+    background-color: #e0ebeb;
   }
   a:visited {
-    color: #696667FF;
+    color: #a7bcb9;
     text-decoration: underline;
   }
 }
