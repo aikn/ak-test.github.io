@@ -6,21 +6,22 @@ body {
   font-family: Calibri Math, Cambria Math, Calibri, Cambria, Georgia, serif;
   font-color: Black; 
   font-size: 1.25em;
-  background-color: SeaShell;
-}
-a:link { 
-  color: Black; 
-  text-decoration: underline;
-  background-color: MintCream;
-}
-a:visited {
-  color: Black;
-  text-decoration: underline;
-  background-color: SeaShell;
-}
-a:hover, a:focus {
-  color: Black;
-  text-decoration: underline;
-  background-color: MintCream;
-  font-weight:normal;
+  background-color: LightGray;
+
+  a:link { 
+    color: Black; 
+    text-decoration: underline;
+    background-color: Gray;
+  }
+  a:visited {
+    color: Black;
+    text-decoration: underline;
+    background-color: LightGray;
+  }
+  a:hover, a:focus {
+    color: Black;
+    text-decoration: underline;
+    background-color: LightGray;
+    font-weight:normal;
+  }
 }
