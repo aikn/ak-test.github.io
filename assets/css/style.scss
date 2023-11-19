@@ -3,7 +3,15 @@
 
 @import "{{ site.theme }}";
 body {
-  font-family: Cambria, Georgia, serif;
-  font-color: Khaki;
-  background-color: gray;
+  font-family: Calibri, Cambria, Georgia, serif;
+  font-color: #696667FF; /*Granite gray*/
+  background-color: #567572FF; /*Sagebrush green*/
+  a:link { 
+    color: #964F4CFF; 
+    text-decoration: underline;
+  }
+  a:visited {
+    color: #696667FF;
+    text-decoration: underline;
+  }
 }
