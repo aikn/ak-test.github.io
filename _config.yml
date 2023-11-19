@@ -1,6 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Anil Nelakanti
 description: [anil dot nelakanti at gmail dot com]
+show_downloads: false
+is_project_page: false
+is_user_page: false
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme # add this line to the plugins list if you already have one
