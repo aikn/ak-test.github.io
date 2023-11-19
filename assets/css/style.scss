@@ -4,12 +4,13 @@
 @import "{{ site.theme }}";
 body {
   font-family: Cambria, Georgia, serif;
+  font-color: Khaki;
   background:
         /* top, transparent black, faked with gradient */ 
         linear-gradient(
-          rgba(0, 0, 0, 0.7), 
-          rgba(0, 0, 0, 0.7)
+          rgba(0, 0, 0, 0.5), 
+          rgba(0, 0, 0, 0.5)
         ),
         /* bottom, image */
-        url(https://images.unsplash.com/photo-1614030424754-24d0eebd46b2);
+        /* url(https://images.unsplash.com/photo-1614030424754-24d0eebd46b2); */
 }
